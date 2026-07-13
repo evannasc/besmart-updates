@@ -2,7 +2,7 @@
   [
     ".*",
     {
-      "version": "2.15.2",
+      "version": "2.15.3",
       "rel_notes": "https://github.com/evannasc/besmart-updates/releases",
       "urls": {
         "SonoffMini": "https://evannasc.github.io/besmart-updates/fw/shelly-homekit-SonoffMini.zip",
